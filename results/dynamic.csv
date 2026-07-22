@@ -1,0 +1,5 @@
+policy,steps,replans,mean_regret_pct,max_regret_pct,mean_certificate_pct,max_certificate_pct
+always,50,50,0.0,0.0,0.0,0.0
+local_0.15,50,11,0.0,0.0,0.0,0.0
+certificate_0.05,50,17,0.0,0.0,2.654482037799242,4.997137129351281
+certificate_0.10,50,0,0.1302104165278406,0.24375407732395438,5.227847652092437,5.523465607997036
